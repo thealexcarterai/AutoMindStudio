@@ -1,0 +1,15 @@
+# Core Settings
+auto_mode: true
+content_sources: [reddit, google, twitter]
+max_video_length: 15min  # Maximum duration for auto-mode
+
+# AI Models
+llm_model: "mistral:7b-instruct"
+tts_model: "en_US-amy-low.onnx"
+
+# Copyright Safety
+allow_scraped_clips: false  # Recommended false for strict compliance
+transformative_edits:
+  - speed_change: 10%
+  - color_filter: "vintage"
+  - overlay_text: true

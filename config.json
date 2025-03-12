@@ -1,0 +1,12 @@
+{
+  "reddit": {
+    "client_id": "w1Fdkahc9dZaJsMDkpcL9A",
+    "client_secret": "K7kyRGo2IjgEdXBtHT8XMBseA2JK8g"
+  },
+  "google": {
+    "api_key": "AIzaSyBQM0GbvWop5PqCWxk8DQg40-Ww3vKRvMQ",
+    "cse_id": "f1779ac0cca734715"
+  },
+  "llm_model": "mistral"
+}
+
